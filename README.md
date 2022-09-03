@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQEHzfuJO4nkEA/profile-displaybackgroundimage-shrink_200_800/0/1644275139653?e=1663804800&v=beta&t=UuGrf-WQsgjihFssUADXrWzyx8opjBd6mmbgaH0kbEQ" alt="Markdown Monster icon" />
 
 <!--
