@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://img.freepik.com/vecteurs-libre/illustrations-lo-fi-degradees_52683-82982.jpg?t=st=1662205227~exp=1662205827~hmac=b0263d5d58c983ef462fa6f98348bcbf7bedf5a5a2e09a2acdb04f6a2af1828b" alt="Markdown Monster icon" />
 
 <!--
 **Sverine/Sverine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
